@@ -1,2 +1,5 @@
 # hello-world
-first of the rest of my life
+
+Hello.
+
+I am a dude just living.
